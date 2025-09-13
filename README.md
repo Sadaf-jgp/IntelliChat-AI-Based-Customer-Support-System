@@ -9,25 +9,22 @@ This chatbot is ideal for e-commerce platforms, help desks, and customer-facing 
 
 🚀 Features
 
-24/7 automated support for queries (orders, returns, shipping, FAQs).
+24/7 Automated Support – Handles queries such as orders, returns, shipping, and FAQs.
 
-NLP-powered intent detection (via Compromise + custom logic).
+NLP-Powered Intent Detection – Uses the Compromise library and custom logic for intent recognition.
 
-Instant responses loaded from a configurable JSON file.
+Configurable Responses – Predefined responses are loaded from a JSON file for easy updates.
 
-Simple and modular architecture for easy customization.
+Modular Architecture – Simple structure that makes customization and extension straightforward.
 
-Lightweight web-based UI styled with Tailwind CSS.
+Lightweight Web UI – Built with Tailwind CSS for a clean, responsive, and modern design.
 
-Local development setup with live-server.
+Easy Local Development – Run instantly with live-server for fast prototyping and testing.
 
 🛠️ Tech Stack
 
 Frontend: HTML, JavaScript, Tailwind CSS
 
-NLP: Compromise (intent extraction logic in nlp.js)
+Natural Language Processing (NLP): Compromise library (intent extraction logic in nlp.js)
 
-nlp
-
-Server/Dev Tooling: Node.js, Live Server
-
+Server & Development Tools: Node.js, Live Server
